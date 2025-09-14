@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MegaMax';
+  font-weight: 400;
+  src: url('MegamaxJonathanToo-YqOq2.ttf') format('truetype');
+}
+
+.MegaMax {
+  font-family: 'MegaMax', sans-serif;
+}
